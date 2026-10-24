@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# Installer builds are attached to GitHub releases, not committed.
+release/
+build/
+dist/
+*.spec
+tests/out/
